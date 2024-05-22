@@ -1,0 +1,6 @@
+[submodule "timekeeping-api"]
+	path = timekeeping-api
+	url = git@github.com:kidp2h/timekeeping-api.git
+[submodule "timekeeping-ui"]
+	path = timekeeping-ui
+	url = git@github.com:kidp2h/timekeeping-ui.git
